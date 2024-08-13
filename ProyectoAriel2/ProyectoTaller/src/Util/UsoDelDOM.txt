@@ -1,0 +1,33 @@
+El uso del Document Object Model (DOM) para manipular archivos XML en Java tiene varias ventajas y desventajas.
+
+Ventajas
+
+1. Estandarización:
+   - Es muy compatible: DOM es un estándar, lo que asegura su compatibilidad y consistencia en diferentes entornos y aplicaciones.
+   - Operaciones: Al ser un estándar, facilita la mezcla entre diferentes sistemas y herramientas que también utilizan DOM.
+
+2. Acceso:
+   - Navegación en el XML: Permite acceder y manipular cualquier parte del documento XML en cualquier momento, ya que todo el documento se carga en memoria.
+   - Modificaciones: Es fácil realizar modificaciones en el documento, como agregar, eliminar o cambiar.
+
+3. Es mas fácil de usar:
+   - API Intuitiva: La API de DOM es bastante intuitiva y fácil de entender para los que estamos aprendiéndolo, lo que hace que el trabajo con XML sea más fácil.
+   - Herramientas y Bibliotecas: Existen muchas herramientas y bibliotecas que soportan DOM, lo que facilita su integración en proyectos Java.
+
+DOM permite el uso de XPath para realizar consultas en el documento XML, lo que facilita la búsqueda y selección de nodos específicos.
+
+Desventajas
+
+1. Consumo de Memoria:
+   - Uso Intensivo de Recursos: DOM carga todo el documento XML en memoria, lo que puede ser muy costoso en términos de consumo de memoria, especialmente con archivos XML grandes.
+   - Tamaño: No es adecuado para procesar archivos XML muy grandes debido a su alto consumo de memoria.
+
+2. Rendimiento:
+   - Lentitud: La carga completa del documento y la creación de la estructura de árbol pueden ser procesos lentos, especialmente con documentos XML grandes.
+
+3. Complejidad de Implementación:
+   - Curva de Aprendizaje: Aunque la API de DOM es intuitiva, puede ser un poco complicado entender completamente cómo funciona, especialmente para principiantes.
+   - Sobrecarga: Para operaciones simples, DOM puede ser excesivamente complejo y profundo, lo que añade una sobrecarga innecesaria.
+
+4. Actualizaciones en Tiempo Real:
+   - No Adecuado para Procesos Continuos: DOM no es ideal para aplicaciones que requieren actualizaciones en tiempo real o procesamiento continuo de flujos de datos XML como el proyecto del taller, pero es mas fácil de usar. Para aplicaciones que manejan grandes volúmenes de datos XML o requieren procesamiento en tiempo real, podría ser más apropiado considerar usar el SAX, que son más eficientes en términos de memoria pero es un poco mas complicado.

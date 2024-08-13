@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servicios>
+                                           
+       
+    
+    
+    
+                   
+    
+    
+    
+    
+    
+    
+    
+    
+    <servicio id="102">
+                                                                                      
+        
+        
+        
+        
+        
+        
+        
+        
+        <nombre>Mecanica Motor</nombre>
+                                                                                      
+        
+        
+        
+        
+        
+        
+        
+        
+        <precio>25000</precio>
+                                                                               
+    
+    
+    
+    
+    
+    
+    
+    
+    </servicio>
+                                    
+
+    
+    
+    
+    
+    
+    
+    
+    <servicio id="100">
+                                                                
+        
+        
+        
+        
+        
+        
+        <nombre>Cambio de aceite</nombre>
+                                                                
+        
+        
+        
+        
+        
+        
+        <precio>15000</precio>
+                                                            
+    
+    
+    
+    
+    
+    
+    </servicio>
+                            
+
+
+    
+    
+    
+    
+    <servicio id="101">
+                                        
+        
+        
+        
+        <nombre>Limpieza</nombre>
+                                        
+        
+        
+        
+        <precio>10000</precio>
+                                    
+    
+    
+    
+    </servicio>
+                
+    
+    
+    
+
+
+    <servicio id="103">
+        <nombre>Servicio Electrico</nombre>
+        <precio>30000</precio>
+    </servicio>
+</servicios>

@@ -1,0 +1,17 @@
+<estados> 
+    <estado id="000"> 
+        <nombre> Nuevo</nombre> 
+    </estado> 
+    <estado id="001"> 
+        <nombre> En Revision</nombre> 
+    </estado> 
+    <estado id="003"> 
+        <nombre> Pendiente de Repuestos</nombre> 
+    </estado> 
+    <estado id="004"> 
+        <nombre> En Pruebas</nombre> 
+    </estado> 
+    <estado id="005">
+        <nombre> Completado</nombre> 
+    </estado> 
+</estados>

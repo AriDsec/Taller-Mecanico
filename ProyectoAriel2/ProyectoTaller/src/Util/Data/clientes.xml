@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clientes>
+                                                                                                                                                                                                                                                               
+    
+    
+    
+    
+    
+    
+    
+                        
+
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <cliente id="6969">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <nombre>Roberto Martínez</nombre>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <placa>71489</placa>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <telefono>25958685</telefono>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <email>roberto@hithere.com</email>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </cliente>
+                                    
+    
+    
+    
+        
+
+
+
+    
+    
+    
+    
+    <cliente id="6968">
+                                        
+        
+        
+        
+        <nombre>María</nombre>
+                                        
+        
+        
+        
+        <placa>71489</placa>
+                                        
+        
+        
+        
+        <telefono>305580904</telefono>
+                                        
+        
+        
+        
+        <email>maria@hithere.com</email>
+                                    
+    
+    
+    
+    </cliente>
+                
+    
+
+
+    
+    <cliente id="5858">
+                
+        <nombre>Patricia</nombre>
+                
+        <placa>7878</placa>
+                
+        <telefono>78964523</telefono>
+                
+        <email>fallasmoraless@gmail.com</email>
+            
+    </cliente>
+    
+    <cliente id="7575">
+        <nombre>Juan</nombre>
+        <placa>8596</placa>
+        <telefono>61304830</telefono>
+        <email>hi@mail.com</email>
+    </cliente>
+</clientes>
